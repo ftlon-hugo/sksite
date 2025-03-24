@@ -1,0 +1,37 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Sanath Kumar'
+
+theme = "gokarna"
+
+enableEmoji = true
+
+[menu]
+    [[menu.main]]
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
+    weight = 1
+    
+    [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+    [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+[params]
+  footer = "Sanath"
+  showBackToTopButton = true
+  displayReadingTime = true
+  avatarURL = "/images/logo/Rays.jpg"
+  description = "A learner, a wanderer, endlessly curious... and almost great!"
+  socialIcons = [
+      {name = "twitter", url = "https://twitter.com/ksanath"},
+      {name = "linkedin", url = "https://www.linkedin.com/in/ksanath/"},
+      {name = "instagram", url = "https://www.instagram.com/ksanath/"}
+    ]
+  
