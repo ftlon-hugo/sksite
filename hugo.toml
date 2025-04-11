@@ -27,7 +27,7 @@ enableEmoji = true
   footer = "Sanath"
   showBackToTopButton = true
   displayReadingTime = true
-  avatarURL = "/images/logo/Water.jpg"
+  avatarURL = "static/images/logo/Water.jpg"
   description = "A learner, a wanderer... and almost great!"
   socialIcons = [
       {name = "twitter", url = "https://twitter.com/ksanath"},
