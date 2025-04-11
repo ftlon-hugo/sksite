@@ -28,7 +28,7 @@ enableEmoji = true
   showBackToTopButton = true
   displayReadingTime = true
   avatarURL = "/images/logo/Water.jpg"
-  description = "A learner, a wanderer, endlessly curious... and almost great!"
+  description = "A learner, a wanderer... and almost great!"
   socialIcons = [
       {name = "twitter", url = "https://twitter.com/ksanath"},
       {name = "linkedin", url = "https://www.linkedin.com/in/ksanath/"},
