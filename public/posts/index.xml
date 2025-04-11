@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sanath Kumar</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Sanath Kumar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>//localhost:1313/posts/0001/</link>
+      <pubDate>Mon, 24 Mar 2025 12:28:54 +0100</pubDate>
+      <guid>//localhost:1313/posts/0001/</guid>
+      <description>&lt;p&gt;Hi there!&lt;/p&gt;&#xA;&lt;p&gt;My name is Sanath and welcome to my website!&lt;/p&gt;&#xA;&lt;p&gt;I am a tech enthusiast and a software tester currently living in Amsterdam, the Netherlands.&lt;/p&gt;&#xA;&lt;p&gt;This is my very first website! Well, I do have an account on LinkedIn and Instagrams of the world, but they are not my website, but this is! I am so excited for this!&lt;/p&gt;&#xA;&lt;p&gt;Please bear with me as I am still learning and working on building my website!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
